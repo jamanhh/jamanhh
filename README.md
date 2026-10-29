@@ -42,7 +42,7 @@ HTML5, CSS3, Responsive, JavaScript, Bootstrap 5, JQuery, React.js, Git, Hosting
 My Strengths and Skills Are Listed Below:
 Experience in HTML5, CSS3, JavaScript, Liquid, PHP, MySQL, jQuery, React.js, Bootstrap 5, Git, Responsive Web Design, and Hosting Servers.
 
-**Frameworks & CMS:** Shopify, WordPress, Squarespace, Webflow, and Wix.
+Frameworks & CMS: Shopify, WordPress, Squarespace, Webflow, and Wix.
 
 Feel free to contact me for any web development project.
 
@@ -66,8 +66,8 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on exciting web development projects.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=faridrony55&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jamanhh&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=faridrony55)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=jamanhh)  
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=faridrony55)](https://github.com/ryo-ma/github-profile-trophy) -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=jamanhh)](https://github.com/ryo-ma/github-profile-trophy) -->
