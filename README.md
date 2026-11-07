@@ -1,5 +1,4 @@
-### Hi, this is Md Jaman Ahmed
-![](https://jamanhh.github.io/tineyonef/linkedin_cover.jpg)
+### Hi, this is Md Jaman
 
 I’m a passionate Web Developer specializing in Shopify and WordPress website development, with a strong focus on creating modern, responsive, and conversion-optimized digital experiences. I enjoy solving problems through clean code, creative design, and innovative development solutions.
 
@@ -12,7 +11,7 @@ I believe successful projects are built on clear communication, attention to det
 Let’s turn your ideas into powerful digital experiences!
 
 ### Skills:
-HTML5, CSS3, Responsive, JavaScript, Bootstrap 5, JQuery, React.js, Git, Hosting Server, MySQL, PHP, XML
+Shopify, Landing Page, Wordpress, React Js, Python
 
 ## My Expertise include:
 ### Shopify
